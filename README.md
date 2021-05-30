@@ -1,6 +1,7 @@
 # Crypto_Clusters
 
-A Jupyter notebook that clusters cryptocurrencies by their performance in different time periods. the results are then plotted to visually show the performance to the board of directors of a financial advisory firm.
+A Jupyter notebook that clusters cryptocurrencies by their performance in different time periods.  Using the K-means algorithm proves useful for grouping and understanding financial data, enhancing the machine learning algorithms by applying principal component analysis Principle Component Analysis. The results are then plotted to visually show the performance to the board of directors of a financial advisory firm.
+
 ## Technologies
 
 This project leverages python 3.7 with the following packages:
