@@ -10,9 +10,6 @@ This project leverages python 3.7 with the following packages:
 
 * [hvlpot](https://hvplot.holoviz.org) - A high-level plotting API for the PyData ecosystem built on HoloViews.
 
-
-
-https://www.mapbox.com
 ---
 
 ## Installation Guide
